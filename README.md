@@ -1,4 +1,12 @@
 # ES6 Tutorial
 This respository we will see the features available in ES6. Also we will look at the few basic features available in the plan javascript. So let's start our journey. 
 
-### what is the difference between var and let 
+### What is the difference between var and let 
+
+We need to consider the following points while discussing the difference between var and let. 
+1. Variable scope
+2. Creating global properties. 
+3. What will happen if you go with declaration in both var and let. 
+4. The temporal dead zone. 
+
+
