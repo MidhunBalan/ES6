@@ -33,5 +33,22 @@ We need to consider the following points while discussing the difference between
 
 ### Named and Default Exports
 
+-----------------------------
+Updated topics:
+
+### var to let/const
+
+### blocks
+
+### String to template literals
+
+### arrow functions
+
+### Handling multiple return values. 
+
+### for to forEach() to for-of
+
+etc
+
 
 
