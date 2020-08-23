@@ -9,5 +9,29 @@ We need to consider the following points while discussing the difference between
 3. What will happen if you go with declaration in both var and let. 
 4. The temporal dead zone. 
 
+### Objects 
+
+### The this Keyword
+
+### Binding this
+
+### Arrow Functions
+
+### Arrow Functions and this
+
+### Array.map Method
+
+### Object Destructuring
+
+### Spread Operator
+
+### Classes
+
+### Inheritance 
+
+### Modules
+
+### Named and Default Exports
+
 
 
